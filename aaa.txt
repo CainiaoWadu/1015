@@ -4,3 +4,4 @@ yeah i am dyd 2222
 hello i am thread1   11111
 hello i am thread2 11111
 thread2    2222222
+test pull and push
