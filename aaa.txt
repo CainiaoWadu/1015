@@ -5,3 +5,5 @@ hello i am thread1   11111
 hello i am thread2 11111
 thread2    2222222
 test pull and push
+I am thread1
+I am thread2
